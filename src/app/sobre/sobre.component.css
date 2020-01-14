@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster&display=swap');
+
+#titulo
+{
+text-align: center;
+font-family: 'Indie Flower', cursive;
+font-size: 70px;
+}
+
+#pt1
+{
+    background-color: rgba(0,0,0,.9); 
+    color: white
+}
+
+.letrac
+{
+    color: black;
+}
+/*.fotos{
+webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+/*transition: width 2s, height 2s, transform 2s;
+}
+
+.fotos:hover {
+width: 300px;
+height: 300px;
+-webkit-transform: rotate(360deg); /* Safari */
+/*transform: rotate(360deg);
+}*/
+
+/*.bg{
+    background-image: url(../../assets/image/fteste.jpg);
+}
+
+/*.fotos{
+    width: 280px;
+    height: 250px;
+}*/
+
+.bg{
+    background: url(../../assets/image/fteste.jpg);
+}
+
+.collapse-text{
+    width: 280px;
+    text-align: justify;
+    padding:30px;
+    border: 1px solid #e9e0e0;
+    background: white;
+    transition-duration: 2s;
+}
+
+.collapse-text h5{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.fotos{
+    width:280px;
+    height: 250px;
+}
